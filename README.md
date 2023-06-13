@@ -2,6 +2,7 @@
 
 This repo hosts the code for the simple illustrative particle-based 2D model of cavity expansion and its effect on cell density for the paper "Hydrostatic pressure regulates competence for neural crest induction" by Alasaadi & colleagues. All code was written by Jonas Hartmann.
 
+![example figure](example_fig.png)
 
 ### How it works
 
